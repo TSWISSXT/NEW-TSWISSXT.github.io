@@ -1,3 +1,3 @@
-# NEW-TSWISSXT.github.io
+# TSWISSXT.github.io
 Hello world ，I am TSWISSXT. Nice to meet you.
 很高兴参加编程马拉松比赛，这个难得的机会让我接触到了以前总觉得高大上的编程，也渐渐加深了自己对这方面的兴趣。很感激辅导员们的热情教导，我一定会一步一步地学习。希望自己能快点熟练起来。即使有时会因为一个指令而反复练习了无数次。。。
